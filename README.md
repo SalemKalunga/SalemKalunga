@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalemKalunga
 - 👀 I’m interested in web development and programming in general
-- 🌱 I’m currently learning reactjs 'cause it's a pretty famous framework!
+- 🌱 I’m currently learning reactjs because it's demanded and it's also a very interesting framework
 - 📫 How to reach me you can reach me to my email adresse salemledev@gmail.com
 
 <!---
